@@ -7,10 +7,12 @@
 Bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+add new file 
 
 ### Files used
-Include the files used
+1-checago
+2-washington
+3-new york city
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
