@@ -247,6 +247,9 @@ def time_stats(df):
 dev GPA():
 print("9 out of 9")
 
+def printInfo():
+  print("noura thamer")
+
 
 
 def station_stats(df):
