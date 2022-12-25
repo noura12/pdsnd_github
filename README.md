@@ -1,5 +1,3 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
 25 des 22
 
@@ -13,10 +11,9 @@ add new file
 1-checago
 2-washington
 3-new york city
-4-xxx
-5-xxx
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-# About me 
-i'm noura thamer , a draduate of computer scince from pnu
+4
+# TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
+         while True:
+                     day = input('''Which day of the week would you like to explore? Enter 'all', 'monday', 'tuesday', etc: ''').lower()
+                        days = ['monday', 'tuesday','wednesday', 'thursday', 'friday', 'saturday', 'sunday']
+                         print("Most common used end station is:",most_common_end_station)
